@@ -1,0 +1,2 @@
+# trumpmachine
+Trump  quote machine
